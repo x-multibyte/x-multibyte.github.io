@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "x-multibyte",
+        "email": "roy@xmultibyte.com"
+    },
+    "records": {
+        "CNAME": "x-multibyte.github.io"
+    }
+}
